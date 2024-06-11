@@ -1,0 +1,3 @@
+# Ignore DB Files (MACs and such inside) #
+##########################################
+*.db3
